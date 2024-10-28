@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "React_native_projects",
-    "slug": "React_native_projects",
+    "name": "Nescafe",
+    "slug": "nescafe",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "nescafe",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
